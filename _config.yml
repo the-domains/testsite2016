@@ -1,0 +1,28 @@
+name: testsite2016
+favicon: null
+layout_spectrum: 0.13639968703500926
+typography_spectrum: 0.49825040134601295
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3991967770271003
+  lightness: 0.4458902534097433
+  saturation: 0.27349260984919965
+  rhythmicContrast: 0.026148238917812705
+purpose: []
