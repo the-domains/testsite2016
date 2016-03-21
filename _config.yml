@@ -1,26 +1,34 @@
+layout_spectrum: 0.9743429
 favicon: null
 name: testsite2016
+purpose: []
+analytics:
+  facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
 collections:
   - index:
+      paginate: true
       path: /
       number: 15
-      paginate: true
       navigable: true
     permalink:
       path: '/:title/'
     feed:
-      path: /rss.xml
       format: rss
+      path: /rss.xml
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
 color:
-  saturation: 0.2734926098491997
   brandStrength: 0.3991967770271003
-  rhythmicContrast: 0.02614823891781271
+  saturation: 0.2734926098491997
   brandColors:
     - '#B8B42D'
     - '#697A21'
@@ -28,13 +36,5 @@ color:
     - '#3E363F'
     - '#DD403A'
   lightness: 0.4458902534097433
+  rhythmicContrast: 0.02614823891781271
 typography_spectrum: 0.03829787
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.80303
-analytics:
-  twitter: null
-  google: null
-  facebook: null
